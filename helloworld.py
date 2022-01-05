@@ -1,1 +1,1 @@
-# sandbox for programming fun
+print("Hello world, I'm alive.")
